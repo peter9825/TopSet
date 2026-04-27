@@ -1,4 +1,4 @@
-TopSet – Workout Tracking API
+- TopSet: Workout Tracking API
 
 TopSet is a backend-driven fitness tracking application that allows users to log and manage structured workout sessions with detailed exercise and set-level data. 
 The application is designed with a focus on clean architecture, secure user access, and real-world API design.
