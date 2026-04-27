@@ -20,6 +20,7 @@
    Testing: JUnit, MockMvc
 
 - Architecture ⚙️
+  
    TopSet follows a layered architecture:
 
    Controller Layer – Handles HTTP requests
