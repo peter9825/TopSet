@@ -4,6 +4,7 @@
    The application is designed with a focus on clean architecture, secure user access, and real-world API design.
 
 - Features ✅
+
    Create and manage workout sessions (e.g., Push A, Pull B)
    Add exercises to each workout
    Track individual sets (weight, reps, personal records)
