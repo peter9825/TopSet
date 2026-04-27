@@ -36,16 +36,10 @@
 2. Configure environment
    Create a local config file:
    src/main/resources/application-local.properties
-   Example:
-   spring.datasource.url=jdbc:postgresql://localhost:5432/topset
-   spring.datasource.username=your_username
-   spring.datasource.password=your_password
-   jwt.secret=your_secret
-   jwt.expiration=86400000
+   
 
-
-  4. Run the application
-     ./gradlew bootRun (or run from your IDE)
+3. Run the application
+   ./gradlew bootRun (or run from your IDE)
 
 
 - Project Motivation 🏆
