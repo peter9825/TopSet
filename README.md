@@ -1,9 +1,9 @@
-- TopSet: Workout Tracking API
+- TopSet: Workout Tracking API 💪
 
-   TopSet is a backend-driven fitness tracking application that allows users to log and manage structured workout sessions with detailed exercise and set-level data. 
+   TopSet is a backend-driven fitness-tracking application that allows users to log and manage structured workout sessions, with detailed exercise and set-level data. 
    The application is designed with a focus on clean architecture, secure user access, and real-world API design.
 
-- Features
+- Features ✅
    Create and manage workout sessions (e.g., Push A, Pull B)
    Add exercises to each workout
    Track individual sets (weight, reps, personal records)
@@ -18,7 +18,7 @@
    Build Tool: Gradle
    Testing: JUnit, MockMvc
 
-- Architecture
+- Architecture ⚙️
    TopSet follows a layered architecture:
 
    Controller Layer – Handles HTTP requests
@@ -26,7 +26,7 @@
    Repository Layer – Handles database operations
    DTOs & Mappers – Separate API contracts from persistence models
 
-- Getting Started
+- Getting Started 🏃
 1. Clone the repository
    git clone https://github.com/your-username/topset.git
    cd topset
@@ -46,11 +46,13 @@
      ./gradlew bootRun (or run from your IDE)
 
 
-- Project Motivation
+- Project Motivation 🏆
+
    TopSet was built to combine my interest in fitness with backend development. 
    The project focuses on designing scalable APIs, handling real-world relational data, and implementing secure user-based access control.
 
-- Future Improvements
+- Future Improvements 🎯
+  
    Mobile frontend integration
    Progress analytics and visualization
    Exercise library and templates
