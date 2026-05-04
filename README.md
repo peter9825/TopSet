@@ -30,7 +30,7 @@
 
 - Getting Started 🏃
 1. Clone the repository
-   git clone https://github.com/your-username/topset.git
+   git clone https://github.com/your-username/TopSet.git
    cd topset
 
 2. Configure environment
