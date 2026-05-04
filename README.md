@@ -31,7 +31,7 @@
 - Getting Started 🏃
 1. Clone the repository
    git clone https://github.com/your-username/TopSet.git
-   cd topset
+   cd TopSet
 
 2. Configure environment
    Create a local config file:
